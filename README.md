@@ -1,1 +1,1 @@
-# y-lan-oyunu
+El tanıma sistemini işaret parmağının hareketlerini algılayacak şekilde güncelleyerek hepinizin bildiğini düşündüğüm yılan oyununa entegre ettim :). Düzgün ışık olmaması ve kameramın kalitesizliğinden dolayı biraz optimizasyon sorunları ile karşılaştım video içinde de anlaşılıyor ama test ettiğim başka bir bilgisayarda hiç sorun yaşamadan oyunu oynayabildim :) 
